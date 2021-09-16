@@ -1,7 +1,4 @@
 // Name: Braden Means
-// NetId: bradenmeans
-// Date: 12/3/18
-// Project: Project 5
 
 #include <iostream>
 #include <fstream>
